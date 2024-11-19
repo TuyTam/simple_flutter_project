@@ -12,7 +12,7 @@
             "program": "bin/server.dart"
         },
         {
-            "name": "frontend",
+            "name": "frontend web",
             "cwd": "frontend",
             "request": "launch",
             "type": "dart",
@@ -22,6 +22,6 @@
                 "--web-port",
                 "8081"
             ]
-        }
+        },
     ]
 }
